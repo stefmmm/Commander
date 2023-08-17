@@ -34,7 +34,7 @@ Easy!
 ```
 Alternatively:
 ```bash
-py ./main.py
+  py ./main.py
 ```
 
 ## Usage
