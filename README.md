@@ -30,11 +30,11 @@ Installing required packages:
 Easy!
 
 ```bash
-  python3 ./main.py
+  python3 ./commander.py
 ```
 Alternatively:
 ```bash
-  py ./main.py
+  py ./commander.py
 ```
 
 ## Usage
@@ -45,4 +45,4 @@ The bot makes use of discord slash commands, these are the currently implemented
 ```
 ## Notes
 
-Currently only the bot owner can execute commands, regardsless of the BOT_OWNER value in the .ENV file
+Currently only the bot owner can execute commands, regardless of the BOT_OWNER value in the .ENV file
